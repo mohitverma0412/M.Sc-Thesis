@@ -1,22 +1,22 @@
 # M.Sc-Thesis
 Update README.md
 
-Abstract 
+# Abstract 
  
  
-Introduction
+# Introduction
 
 1. Motivation
 2. Aims and Objective
 3. Description of work
  
-Main body
+# Main body
 
 1. Background and Related Work
 2. Design
 3. Implementation
  
-Discussion
+# Discussion
 
 1. Evaluation
 2. Summary
