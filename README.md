@@ -1,5 +1,6 @@
 # M.Sc-Thesis
-Abstract. 
+Update README.md
+Abstract 
  
  
 Introduction
@@ -14,6 +15,7 @@ Main body
 2. Design
 3. Implementation
  
-Discussion. 
-Evaluation
-Summary
+Discussion
+
+1. Evaluation
+2. Summary
