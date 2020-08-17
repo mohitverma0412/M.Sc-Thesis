@@ -1,4 +1,3 @@
-# M.Sc-Thesis
 Update README.md
 
 # Abstract 
