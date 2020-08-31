@@ -10,6 +10,8 @@ Elucidating the prefrontal cortical microcircuit has been challenging, given its
  
 # Materials and Methods
 
+### GABAergic signaling
+
 ### E/I Balance
 
 
@@ -47,6 +49,25 @@ We illustrated changes in the rate covariation between neurons using the couplin
 
 
 # Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Discussion
 
